@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Ramazan
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">🌱 I am currently studying and mastering a profession in programming</h3>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
 
 <!--
 **whiteBrunet/whiteBrunet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
