@@ -1,7 +1,6 @@
 <h1 align="center">Hi there, I'm Ramazan
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">🌱 I am currently studying and mastering a profession in programming</h3>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lumanosimo&pause=1000&color=83F7EB&background=2DEAFF00&center=true&random=false&width=435&lines=The+text+has+no+informative+function!" alt="Typing SVG" /></a>
 
 <!--
 **whiteBrunet/whiteBrunet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+
