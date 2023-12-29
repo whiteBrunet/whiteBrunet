@@ -19,6 +19,4 @@ Here are some ideas to get you started:
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whiteBrunet=default)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=whiteBrunet&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whiteBrunet&theme=default)
