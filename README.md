@@ -40,4 +40,4 @@ I am currently studying and mastering a profession in programming
 
 <a href="http://www.github.com/whiteBrunet"><img src="https://github-readme-streak-stats.herokuapp.com/?user=whiteBrunet&stroke=3382ed&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=3382ed&currStreakLabel=ef4444&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
 
-<a href="http://www.github.com/whiteBrunet"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=whiteBrunet&bg_color=1c1917&color=3382ed&line=3382ed&point=3382ed&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
