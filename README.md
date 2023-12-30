@@ -1,3 +1,8 @@
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=Hello%20I'm Ramazan)
+
+
+---
+
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=whiteBrunet&theme=github-dark-dimmed&locale=ru" alt="GitHub Streak" /></a>
 
 ---
