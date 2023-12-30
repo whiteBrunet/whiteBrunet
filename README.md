@@ -9,7 +9,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=whiteBrunet&show_icons=true" />
 </picture>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whiteBrunet&show_icons=true&theme=radical)
+
 <!--
 **whiteBrunet/whiteBrunet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
