@@ -9,7 +9,9 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=whiteBrunet&show_icons=true" />
 </picture>
+
 ---
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,docker,cpp,vscode,swift" />
