@@ -2,7 +2,7 @@
 
 ---
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=whiteBrunet&theme=github-dark-dimmed&locale=ru" alt="GitHub Streak" /></a>
+
 
 ---
 
