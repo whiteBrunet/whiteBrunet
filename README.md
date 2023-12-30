@@ -9,7 +9,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=whiteBrunet&show_icons=true" />
 </picture>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whiteBrunet&layout=Donut Vertical Chart layout)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **whiteBrunet/whiteBrunet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
