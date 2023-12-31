@@ -31,7 +31,7 @@
 ### Multiuse tooling.🌱 I use tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,vscode,pс,idea" />
+    <img src="https://skillicons.dev/icons?i=cpp,vscode,idea" />
   </a>
 </p>
 
