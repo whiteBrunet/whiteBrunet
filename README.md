@@ -28,10 +28,10 @@
 
 ---
 
-### Multiuse tooling.🌱 I’m currently learning
+### Multiuse tooling.🌱 I use tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,vscode,vs,pycharm,idea" />
+    <img src="https://skillicons.dev/icons?i=cpp,vscode,pс,idea" />
   </a>
 </p>
 
