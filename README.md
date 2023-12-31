@@ -1,12 +1,6 @@
 ## <p align="center"> Hi !  My name is Ramazan and I'm from Tatarstan.</p>
 
-
 ---
-
-
-
----
-
 
 ### Statistic
 <p align="center">
@@ -28,12 +22,22 @@
 ### Multiuse tooling.🌱 I’m currently learning
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,cpp,vscode,swift" />
+    <img src="https://skillicons.dev/icons?i=git,docker,swift" />
   </a>
 </p>
+
+---
+
+### Multiuse tooling.🌱 I’m currently learning
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,vscode,vs,pycharm,idea" />
+  </a>
+</p>
+
+
 <!--
 **whiteBrunet/whiteBrunet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
