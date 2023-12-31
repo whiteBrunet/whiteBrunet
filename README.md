@@ -1,4 +1,4 @@
-<p>## Hi !  I'm Ramazan and from Tatarstan.</p>
+## <p> Hi !  I'm Ramazan and from Tatarstan.</p>
 
 
 ---
@@ -8,7 +8,7 @@
 ---
 
 
-## Statistic
+### Statistic
 <p align="center">
 <picture>
   <source
@@ -25,7 +25,7 @@
 
 ---
 
-## Multiuse tooling. ### 🌱 I’m currently learning
+### Multiuse tooling.🌱 I’m currently learning
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,docker,cpp,vscode,swift" />
