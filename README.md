@@ -1,5 +1,5 @@
-## Hi !  I'm Ramazan. 
-### 🌱 I’m currently learning C++.
+<p>## Hi !  I'm Ramazan and from Tatarstan.</p>
+
 
 ---
 
@@ -25,7 +25,7 @@
 
 ---
 
-## Multiuse tooling
+## Multiuse tooling. ### 🌱 I’m currently learning
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,docker,cpp,vscode,swift" />
