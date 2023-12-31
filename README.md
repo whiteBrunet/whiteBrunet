@@ -1,4 +1,5 @@
-Hi! I'm Ramazan. 🌱 I’m currently learning C++
+### Hi! I'm Ramazan. 
+## 🌱 I’m currently learning C++
 
 ---
 
