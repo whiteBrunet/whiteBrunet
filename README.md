@@ -22,7 +22,7 @@
 ### Multiuse tooling.🌱 I’m currently learning
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,git,gitlab,java,docker,swift,linux" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,git,gitlab,java,docker,swift,linux" />
   </a>
 </p>
 
@@ -31,7 +31,7 @@
 ### Multiuse tooling.🌱 I use tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,idea" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,idea" />
   </a>
 </p>
 
