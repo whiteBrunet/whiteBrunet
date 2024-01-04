@@ -1,4 +1,4 @@
-## <p align="center"> Hi !  My name is Ramazan and I'm from Tatarstan.</p>
+## <p align="center"> Hi !  My name is Ramazan and I'm from Tatarstan.</p>👋
 
 ---
 
